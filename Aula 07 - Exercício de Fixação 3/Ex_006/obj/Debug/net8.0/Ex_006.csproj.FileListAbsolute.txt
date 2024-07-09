@@ -1,0 +1,28 @@
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\obj\Debug\net8.0\Ex_006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\obj\Debug\net8.0\Ex_006.AssemblyInfoInputs.cache
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\obj\Debug\net8.0\Ex_006.AssemblyInfo.cs
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\obj\Debug\net8.0\Ex_006.csproj.CoreCompileInputs.cache
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\bin\Debug\net8.0\Ex_006.exe
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\bin\Debug\net8.0\Ex_006.deps.json
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\bin\Debug\net8.0\Ex_006.runtimeconfig.json
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\bin\Debug\net8.0\Ex_006.dll
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\bin\Debug\net8.0\Ex_006.pdb
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\obj\Debug\net8.0\Ex_006.dll
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\obj\Debug\net8.0\refint\Ex_006.dll
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\obj\Debug\net8.0\Ex_006.pdb
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\obj\Debug\net8.0\Ex_006.genruntimeconfig.cache
+C:\Users\55379\Documents\Programação\Desenvolvimento Full Stack\DotNet\Ex_006\obj\Debug\net8.0\ref\Ex_006.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\bin\Debug\net8.0\Ex_006.exe
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\bin\Debug\net8.0\Ex_006.deps.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\bin\Debug\net8.0\Ex_006.runtimeconfig.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\bin\Debug\net8.0\Ex_006.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\bin\Debug\net8.0\Ex_006.pdb
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\obj\Debug\net8.0\Ex_006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\obj\Debug\net8.0\Ex_006.AssemblyInfoInputs.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\obj\Debug\net8.0\Ex_006.AssemblyInfo.cs
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\obj\Debug\net8.0\Ex_006.csproj.CoreCompileInputs.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\obj\Debug\net8.0\Ex_006.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\obj\Debug\net8.0\refint\Ex_006.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\obj\Debug\net8.0\Ex_006.pdb
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\obj\Debug\net8.0\Ex_006.genruntimeconfig.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_006\obj\Debug\net8.0\ref\Ex_006.dll
