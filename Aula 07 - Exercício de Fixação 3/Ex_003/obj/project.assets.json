@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\55379\\.nuget\\packages\\": {}
+    "C:\\Users\\Tcs\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55379\\Documents\\Programação\\Desenvolvimento Full Stack\\DotNet\\Ex_003\\Ex_003.csproj",
+      "projectUniqueName": "C:\\Users\\Tcs\\Documents\\Estudo Programação\\Desenvolvedor Full Stack\\Aula 07 - Exercício de Fixação 3\\Ex_003\\Ex_003.csproj",
       "projectName": "Ex_003",
-      "projectPath": "C:\\Users\\55379\\Documents\\Programação\\Desenvolvimento Full Stack\\DotNet\\Ex_003\\Ex_003.csproj",
-      "packagesPath": "C:\\Users\\55379\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55379\\Documents\\Programação\\Desenvolvimento Full Stack\\DotNet\\Ex_003\\obj\\",
+      "projectPath": "C:\\Users\\Tcs\\Documents\\Estudo Programação\\Desenvolvedor Full Stack\\Aula 07 - Exercício de Fixação 3\\Ex_003\\Ex_003.csproj",
+      "packagesPath": "C:\\Users\\Tcs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tcs\\Documents\\Estudo Programação\\Desenvolvedor Full Stack\\Aula 07 - Exercício de Fixação 3\\Ex_003\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\55379\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Tcs\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
