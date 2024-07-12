@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tcs\\Documents\\Estudo Programação\\Desenvolvedor Full Stack\\Exercícios\\Desafio_01\\Desafio_01.csproj",
+      "projectUniqueName": "C:\\Users\\Tcs\\Documents\\Estudo Programação\\Desenvolvedor Full Stack\\Aula 02 - Exercício de Fixação 1\\Desafio_01\\Desafio_01.csproj",
       "projectName": "Desafio_01",
-      "projectPath": "C:\\Users\\Tcs\\Documents\\Estudo Programação\\Desenvolvedor Full Stack\\Exercícios\\Desafio_01\\Desafio_01.csproj",
+      "projectPath": "C:\\Users\\Tcs\\Documents\\Estudo Programação\\Desenvolvedor Full Stack\\Aula 02 - Exercício de Fixação 1\\Desafio_01\\Desafio_01.csproj",
       "packagesPath": "C:\\Users\\Tcs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tcs\\Documents\\Estudo Programação\\Desenvolvedor Full Stack\\Exercícios\\Desafio_01\\obj\\",
+      "outputPath": "C:\\Users\\Tcs\\Documents\\Estudo Programação\\Desenvolvedor Full Stack\\Aula 02 - Exercício de Fixação 1\\Desafio_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tcs\\AppData\\Roaming\\NuGet\\NuGet.Config"
