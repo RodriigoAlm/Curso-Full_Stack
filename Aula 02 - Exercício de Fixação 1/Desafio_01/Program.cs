@@ -1,4 +1,7 @@
-﻿DateTime agora = DateTime.Now;
+﻿/* Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuário. 
+Calcule o total em segundos. (1 minutos tem quantos segundos? 1 hora tem quantos minutos?) */
+
+DateTime agora = DateTime.Now;
 
 int dia = agora.Day;
 int hora = agora.Hour;

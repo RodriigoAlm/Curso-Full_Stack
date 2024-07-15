@@ -16,6 +16,6 @@ do {
     populacaoA += populacaoA * taxaA;
     populacaoB += populacaoB * taxaB;
     anos++;
-} while (populacaoA < populacaoB);
+} while (populacaoA <= populacaoB);
 
 Console.WriteLine($"A quantidade de anos necessária para igualar a populacão seria de {anos} anos.");

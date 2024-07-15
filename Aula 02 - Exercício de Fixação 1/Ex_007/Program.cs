@@ -1,4 +1,7 @@
-﻿Console.Write("Digite seu salário: ");
+﻿/* Escreva um algoritmo para ler o salário mensal atual de um funcionário 
+e calcular e escrever o valor do novo salário com 12% de reajuste. */
+
+Console.Write("Digite seu salário: ");
 double salario = double.Parse (Console.ReadLine());
 
 //Conta Reajuste
