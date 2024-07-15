@@ -1,9 +1,10 @@
 ﻿Console.Write("Digite o sexo (F ou M): ");
 string? sexo = Console.ReadLine();
+string? sexoM = sexo.ToUpper();
 
-if (sexo == "F" || sexo == "f") {
+if (sexoM == "F") {
     Console.WriteLine("Sexo Feminino.");
-} else if (sexo == "M" || sexo == "m") {
+} else if (sexoM == "M") {
     Console.WriteLine("Sexo Masculino.");
 } else {
     Console.WriteLine("Valor inválido.");
