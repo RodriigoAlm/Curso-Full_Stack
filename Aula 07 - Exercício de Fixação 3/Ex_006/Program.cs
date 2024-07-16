@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Digite 3 valores diferentes: (Separados por espaço)");
+﻿// O Ex_005 é igual
+
+Console.WriteLine("Digite 3 valores diferentes: (Separados por espaço)");
 string? input = Console.ReadLine();
 
 if (input is not null) {
@@ -13,4 +15,4 @@ if (input is not null) {
     int menor = Math.Min(Math.Min(num1, num2), num3);
 
     Console.WriteLine($"O maior valor digitado é {maior} e o menor é {menor}.");
-}
+};

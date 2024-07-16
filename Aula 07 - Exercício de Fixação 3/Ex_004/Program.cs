@@ -1,4 +1,6 @@
-﻿Console.Write("Digite uma letra: ");
+﻿// Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+
+Console.Write("Digite uma letra: ");
 string? input = Console.ReadLine();
 string? letra = input.ToUpper();
 
