@@ -1,0 +1,15 @@
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\Ex_010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\Ex_010.AssemblyInfoInputs.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\Ex_010.AssemblyInfo.cs
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\Ex_010.csproj.CoreCompileInputs.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\Ex_010.sourcelink.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\bin\Debug\net8.0\Ex_010.exe
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\bin\Debug\net8.0\Ex_010.deps.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\bin\Debug\net8.0\Ex_010.runtimeconfig.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\bin\Debug\net8.0\Ex_010.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\bin\Debug\net8.0\Ex_010.pdb
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\Ex_010.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\refint\Ex_010.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\Ex_010.pdb
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\Ex_010.genruntimeconfig.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 07 - Exercício de Fixação 3\Ex_010\obj\Debug\net8.0\ref\Ex_010.dll
