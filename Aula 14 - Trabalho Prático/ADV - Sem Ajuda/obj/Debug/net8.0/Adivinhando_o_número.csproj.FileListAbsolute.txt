@@ -1,0 +1,15 @@
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\Adivinhando_o_número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\Adivinhando_o_número.AssemblyInfoInputs.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\Adivinhando_o_número.AssemblyInfo.cs
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\Adivinhando_o_número.csproj.CoreCompileInputs.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\Adivinhando_o_número.sourcelink.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\bin\Debug\net8.0\Adivinhando_o_número.exe
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\bin\Debug\net8.0\Adivinhando_o_número.deps.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\bin\Debug\net8.0\Adivinhando_o_número.runtimeconfig.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\bin\Debug\net8.0\Adivinhando_o_número.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\bin\Debug\net8.0\Adivinhando_o_número.pdb
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\Adivinhando_o_número.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\refint\Adivinhando_o_número.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\Adivinhando_o_número.pdb
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\Adivinhando_o_número.genruntimeconfig.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Adivinhando_o_número\obj\Debug\net8.0\ref\Adivinhando_o_número.dll

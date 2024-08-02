@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Adivinhando_o_número/1.0.0": {
+        "runtime": {
+          "Adivinhando_o_número.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adivinhando_o_número/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

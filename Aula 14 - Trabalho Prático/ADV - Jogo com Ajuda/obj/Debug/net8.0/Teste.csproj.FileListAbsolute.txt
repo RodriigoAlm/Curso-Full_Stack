@@ -1,0 +1,15 @@
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\bin\Debug\net8.0\Teste.exe
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\bin\Debug\net8.0\Teste.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\bin\Debug\net8.0\Teste.pdb
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\Teste.sourcelink.json
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\Teste.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\Teste.pdb
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\Users\Tcs\Documents\Estudo Programação\Desenvolvedor Full Stack\Aula 14 - Trabalho Prático\Teste\obj\Debug\net8.0\ref\Teste.dll
